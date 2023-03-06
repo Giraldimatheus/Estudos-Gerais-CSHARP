@@ -1,0 +1,8 @@
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb

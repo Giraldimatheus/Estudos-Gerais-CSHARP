@@ -1,0 +1,8 @@
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe.config
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.pdb

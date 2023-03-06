@@ -1,0 +1,8 @@
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\8-Condicionais 2\bin\Debug\8-Condicionais 2.exe.config
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\8-Condicionais 2\bin\Debug\8-Condicionais 2.exe
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\8-Condicionais 2\bin\Debug\8-Condicionais 2.pdb
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\8-Condicionais 2\obj\Debug\8-Condicionais 2.csproj.AssemblyReference.cache
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\8-Condicionais 2\obj\Debug\8-Condicionais 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\8-Condicionais 2\obj\Debug\8-Condicionais 2.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\8-Condicionais 2\obj\Debug\8-Condicionais 2.exe
+C:\Users\mhgir\Downloads\csharp-parte-1-primeiros-passos-aula4\csharp-parte-1-primeiros-passos-aula4\aula4\8-Condicionais 2\obj\Debug\8-Condicionais 2.pdb
